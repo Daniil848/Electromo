@@ -114,7 +114,7 @@ img{
 .topContacts {
     display: flex;
 }
-.topLogo {
+.topLeft {
    width: 270px;
    padding-right:  15px;
   
@@ -206,7 +206,6 @@ input::-webkit-search-results-decoration {
     padding-top: 15px;
 }
 .topMenu__categories {
-    width: 270px;
     padding: 15px 0px 15px 15px;
     background: var(--main-blue);
     color: var(--main-background);
